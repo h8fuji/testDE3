@@ -1,0 +1,11 @@
+C:\Users\denme\source\repos\testDE\obj\Debug\testDE.csprojAssemblyReference.cache
+C:\Users\denme\source\repos\testDE\obj\Debug\testDE.Form1.resources
+C:\Users\denme\source\repos\testDE\obj\Debug\testDE.Form2.resources
+C:\Users\denme\source\repos\testDE\obj\Debug\testDE.Properties.Resources.resources
+C:\Users\denme\source\repos\testDE\obj\Debug\testDE.csproj.GenerateResource.cache
+C:\Users\denme\source\repos\testDE\obj\Debug\testDE.csproj.CoreCompileInputs.cache
+C:\Users\denme\source\repos\testDE\bin\Debug\testDE.exe.config
+C:\Users\denme\source\repos\testDE\bin\Debug\testDE.exe
+C:\Users\denme\source\repos\testDE\bin\Debug\testDE.pdb
+C:\Users\denme\source\repos\testDE\obj\Debug\testDE.exe
+C:\Users\denme\source\repos\testDE\obj\Debug\testDE.pdb
